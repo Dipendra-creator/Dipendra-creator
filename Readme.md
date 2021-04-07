@@ -1,7 +1,7 @@
 ### Hi there, I'm Dipendra Bhardwaj
 
 
-<img align="left" height="600px" src="https://dipendra-creator.github.io/Dipendra-creator/images/the.villain.skull-20210407-0001.jpg" alt="Dipendra-creator" />
+<img align="center" height="600px" src="https://dipendra-creator.github.io/Dipendra-creator/images/the.villain.skull-20210407-0001.jpg" alt="Dipendra-creator" />
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Dipendra-creator" alt="Dipendra-creator"/><br>
 
